@@ -1,4 +1,4 @@
-package com.functions;
+package com.Mindtree.functions;
 import java.util.Scanner;
 public class Evenodd {
     public static void main(String[] args) {

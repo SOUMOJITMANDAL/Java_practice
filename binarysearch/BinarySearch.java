@@ -1,4 +1,4 @@
-package com.binarysearch;
+package com.Mindtree.binarysearch;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package com.binarysearch2Darray;
+package com.Mindtree.binarysearch2Darray;
 
 import java.util.Arrays;
 

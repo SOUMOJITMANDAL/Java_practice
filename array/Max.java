@@ -1,8 +1,5 @@
-package com.array;
-
-import java.util.Arrays;
-import java.util.Scanner;
-
+package com.Mindtree.array;
+import java.util.*;
 public class Max {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
