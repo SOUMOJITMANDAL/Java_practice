@@ -16,7 +16,7 @@ public class bubbleSort {
         System.out.println(Arrays.toString(arr));
     }
     static void bubble(int[] arr){
-        int temp=0;
+        int temp;
         boolean swapped = false;
         for (int i = 0; i < arr.length; i++) {
             for (int j = 1; j < arr.length -i ; j++) {
