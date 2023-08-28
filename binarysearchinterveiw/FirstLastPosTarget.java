@@ -1,4 +1,4 @@
-package com.binarysearchinterveiw;
+package com.Mindtree.binarysearchinterveiw;
 //https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
 public class FirstLastPosTarget{
     public static void main(String[] args) {

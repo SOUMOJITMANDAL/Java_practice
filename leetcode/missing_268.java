@@ -15,7 +15,6 @@ public class missing_268 {
         }
         int res = missingNumber(arr);
         System.out.println("The missing number is: "+res);
-
     }
     public static int missingNumber(int[] nums){
         int i=0;
