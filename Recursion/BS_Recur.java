@@ -16,7 +16,7 @@ public class BS_Recur {
         System.out.println("The target element is at index : "+result);
     }
     public static int search(int[] arr, int target, int start, int end ){
-        if (start > end){
+        if (start > end){  // base condition
             return -1;
         }
         int mid = start + ((end-start)/2);
