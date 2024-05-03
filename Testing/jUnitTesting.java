@@ -30,12 +30,12 @@ public class jUnitTesting {
     }
 
     @BeforeClass
-    public void Junit_beforeClass(){
+    public static void Junit_beforeClass(){
         System.out.println("Junit before class. To execute a statement before all test cases.");
     }
 
     @AfterClass
-    public void Junit_afterClass(){
+    public static void Junit_afterClass(){
         System.out.println("Junit after class. To execute a statement after all test cases.");
     }
 
